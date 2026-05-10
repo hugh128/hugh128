@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hugh128.
+- 👋 Hi, I’m Hugh.
 - 👀 I’m interested in application and web development.
-- 🌱 I’m currently learning python, html, css and javascript.
-- 💞️ I’m looking to collaborate on small projects to gain experience.
+- 🌱 I’m currently learning typescript and python.
+- 💞️ I’m looking to collaborate on projects to gain experience.
 - 📫 How to reach me: hugh128ord@gmail.com
 
 <!---
